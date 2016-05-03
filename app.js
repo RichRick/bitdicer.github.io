@@ -4,13 +4,13 @@
 
 var config = {
   // - Your app's id on moneypot.com
-  app_id: 18,                             // <----------------------------- EDIT ME!
+  app_id: c3f5e696-352c-49e6-9095-a3d6b9d797e1,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
-  app_name: 'Untitled Dice',
+  app_name: 'BitDicer',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
-  recaptcha_sitekey: '6LfI_QUTAAAAACrjjuzmLw0Cjx9uABxb8uguLbph',  // <----- EDIT ME!
-  redirect_uri: 'https://untitled-dice.github.io',
+  recaptcha_sitekey: '6Lfg_x4TAAAAABhsbb_JrED34hDTrifXWb4x0lmS',  // <----- EDIT ME!
+  redirect_uri: 'https://bitdicer.github.io',
   mp_browser_uri: 'https://www.moneypot.com',
   mp_api_uri: 'https://api.moneypot.com',
   chat_uri: '//socket.moneypot.com',
