@@ -4,7 +4,7 @@
 
 var config = {
   // - Your app's id on moneypot.com
-  app_id: c3f5e696-352c-49e6-9095-a3d6b9d797e1,                             // <----------------------------- EDIT ME!
+  app_id: 1108,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
   app_name: 'BitDicer',
   // - For your faucet to work, you must register your site at Recaptcha
